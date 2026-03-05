@@ -1,7 +1,0 @@
-﻿Test name,Cycle,Operations,Errors,Description
-Cpu Temp,18,227 Billion,0,No errors
-Cpu Coverage,0,0,1,GPGPU maths test setup errors
-Ram,4,25.660 Billion,0,No errors
-2D,70,4412,0,No errors
-3D,0,8000,0,No errors
-localDisk,10,"49,514 Billion",0,No errors
