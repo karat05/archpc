@@ -16,14 +16,16 @@
  
 # Задание: Провести диагностику компьютера по каждому из предложенному виду теста. 
 Результат каждого теста записать в тетрадь в виде таблицы.
-Test name	Cycle	Operations	Errors	Last error Description
-Cpu Temp				
-Cpu Coverage				
-Ram				
-2D				
-3D				
-localDisk				
+| Test name | Cycle | Operations | Errors | Last error Description |
+|-----------|-------|------------|--------|------------------------|
+| Cpu Temp | | | | |
+| Cpu Coverage | | | | |
+| Ram | | | | |
+| 2D | | | | |
+| 3D | | | | |
+| localDisk | | | | |		
 
+# Выполненная таблицы
 | Test name | Cycle | Operations | Errors | Description |
 |-----------|-------|------------|--------|-------------|
 | Cpu Temp | 18 | 227 Billion | 0 | No errors |
@@ -46,22 +48,3 @@ localDisk
 
 4. **Виды тестирования программных продуктов**  
    — Функциональное, нагрузочное (stress), регрессионное, модульное, интеграционное, системное, приёмочное. В контексте диагностики ПК: быстрое (QuickTest), расширенное, циклическое, тестирование отдельных подсистем.
-
-
-
-
-
-
-
-
-
-
-
-
-Test name,Cycle,Operations,Errors,Description
-Cpu Temp,18,227 Billion,0,No errors
-Cpu Coverage,0,0,1,GPGPU maths test setup errors
-Ram,4,25.660 Billion,0,No errors
-2D,70,4412,0,No errors
-3D,0,8000,0,No errors
-localDisk,10,"49,514 Billion",0,No errors
