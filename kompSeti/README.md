@@ -1,9 +1,7 @@
 # Компьютерные_сети
 # [Презентация_Что_такое_IP_MAC_DNS](IP-MAC-DNS-osnovy-setevoj-adresacii.pptx)
-# [Конспект_к_презентации](sudu.md)
-# Компьютерные_сети
-
-# [Презентация_Что_такое_IP_MAC_DNS](IP-MAC-DNS-osnovy-setevoj-adresacii.pptx)
 ## Нужно открыть на ПК
 # [Конспект_к_презентации](sudu.md)
 # [Лабараторная_работа_№1](lab_1.md)
+# [Лабораторная работа подключение к Raspberry PI по протоколу SSH](labPI.md)
+f
